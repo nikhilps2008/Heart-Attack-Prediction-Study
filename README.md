@@ -14,7 +14,7 @@ The project includes interactive dashboards that provide visual insights into th
 - **Income by Heart Attack Risk:** Illustrates the relationship between income levels and heart attack risks.
 - **Stress Level and Heart Attack Risk:** Displays average stress levels for those at risk.
 - **Exercise Hours by Heart Attack Risk:** Highlights the inverse relationship between exercise hours and heart attack risk.
-
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Heart%20Attack%20Prediction%20Study.png)
 ## Author
 Nikhil Sreenivasan
 
