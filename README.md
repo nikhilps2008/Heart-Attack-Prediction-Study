@@ -40,6 +40,9 @@ The project includes interactive dashboards that provide visual insights into th
 - **Stress Level and Heart Attack Risk:** Displays average stress levels for those at risk.
 - **Exercise Hours by Heart Attack Risk:** Highlights the inverse relationship between exercise hours and heart attack risk.
 - **Dashboard Overview:** ![Dashboard Overview](reports/figures/Heart%20Attack%20Prediction%20Study.png)
+- **Dashboard Demo:**
+
+https://github.com/user-attachments/assets/29578104-7dad-4367-a092-5db6c908e14b
 
 ## Author
 Nikhil Sreenivasan
